@@ -15,7 +15,24 @@
   </head>
   <body>
     <h1>Hello, world!</h1>
-
+    <h3>선택하시오.</h3>
+    <select>
+     <option>### 선택 ###</option>
+     <option>git</option>
+     <option>jsp</option>
+     <option>spring</option>
+    </select>
+	<div class="row">
+  <div class="col-md-1">1번</div>
+  <div class="col-md-1">2번</div>
+  <div class="col-md-1">3번</div>
+  <div class="col-md-4">4567번</div>
+  <div class="col-md-1">.col-md-1</div>
+  <div class="col-md-1">.col-md-1</div>
+  <div class="col-md-1">.col-md-1</div>
+  <div class="col-md-1">.col-md-1</div>
+  <div class="col-md-1">.col-md-1</div>
+</div>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
